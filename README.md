@@ -51,8 +51,8 @@ By automating expense tracking, this project simplifies financial monitoring for
 
 
 Our Team Name:
-AKASH KUMAR( TEAM LEADER )\n
-DEEPAK KUMAR BIND\n
-GURAPNOOR SHARON CHITHMABER\n
+AKASH KUMAR( TEAM LEADER )<br>
+DEEPAK KUMAR BIND</br> <br>
+GURAPNOOR SHARON CHITHMABER</br>
  Department: Computer Science and Engineering (CSE)
  College: Grace College of Engineering, Thoothukudi
