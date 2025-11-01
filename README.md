@@ -22,6 +22,8 @@ Access: Created a dedicated "Family Expenditure" menu for easy user navigation.
 
 
 https://github.com/user-attachments/assets/26056a45-dc84-4c0b-9a13-d9eea2b61764
+[Calculating-Family-Expenses-using-ServiceNow (1) (1).pdf](https://github.com/user-attachments/files/23280661/Calculating-Family-Expenses-using-ServiceNow.1.1.pdf)
+
 
 ![project ss (19)](https://github.com/user-attachments/assets/52ee0996-f342-4cce-a33e-63985ce1ee12)
 ![project ss (18)](https://github.com/user-attachments/assets/d4336a4d-b795-4b9a-ab3d-54d470274ae9)
