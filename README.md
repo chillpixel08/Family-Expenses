@@ -20,7 +20,8 @@ Setup: Secured a PDI and created the "Family Expenses" Update Set.
 Design: Configured forms with mandatory fields (Date, Amount, Family Member Name) and read-only fields (Number).
 Access: Created a dedicated "Family Expenditure" menu for easy user navigation.
 
-and below attached medias contains the process of the whole project which include the photo and the images
+and below attached medias contains the process of the whole project which include the photo and the images<br>
+
 https://github.com/user-attachments/assets/26056a45-dc84-4c0b-9a13-d9eea2b61764
 
 ![project ss (19)](https://github.com/user-attachments/assets/52ee0996-f342-4cce-a33e-63985ce1ee12)
@@ -43,7 +44,7 @@ https://github.com/user-attachments/assets/26056a45-dc84-4c0b-9a13-d9eea2b61764
 ![project ss (2)](https://github.com/user-attachments/assets/5927cd95-1e3c-47d8-8430-67d5ff8168fe)
 ![project ss (1)](https://github.com/user-attachments/assets/95e00335-e5a5-4721-b922-1e8c27af0003)
 
-The below link is the pdf of our report on Calculating family expenses
+The below link is the pdf of our report on Calculating family expenses<br>
 [Calculating-Family-Expenses-using-ServiceNow (1) (1).pdf](https://github.com/user-attachments/files/23280661/Calculating-Family-Expenses-using-ServiceNow.1.1.pdf)
 
 ✅ Conclusion
